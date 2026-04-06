@@ -1,7 +1,14 @@
 this is f1 file line 1
 line 2
 line 3
+<<<<<<< Updated upstream
  
 2nd line
 arrays
 colletions
+=======
+
+bux fix
+int a=10;
+int b=20;
+>>>>>>> Stashed changes
