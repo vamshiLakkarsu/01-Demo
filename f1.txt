@@ -12,3 +12,4 @@ bux fix
 int a=10;
 int b=20;
 >>>>>>> Stashed changes
+int c=20;
