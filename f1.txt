@@ -14,3 +14,5 @@ int b=20;
 >>>>>>> Stashed changes
 int c=20;
 string name="qwerty";
+string clg="jntu";
+
